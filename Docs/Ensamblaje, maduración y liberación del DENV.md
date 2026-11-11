@@ -1,0 +1,2 @@
+Los mecanismos que promueven, regulan y coordinan el ensamblaje del virus, no son conocidos completamente. 
+Sin embargo, por microscopía electrónica y criomicroscopía, se ha sugerido que el proceso de ensamblaje de las partículas del DENV sucede en distensiones del retículo endoplásmico denominadas membranas “convolutas” (convolute), donde ocurre de forma simultánEnsamblaje, maduración y liberación del DENVea la traducción de la proteína y el ensamblaje del virus.Ensamblaje, maduración y liberación del DENV.

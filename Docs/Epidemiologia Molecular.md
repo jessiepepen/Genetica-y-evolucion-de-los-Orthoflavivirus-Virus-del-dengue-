@@ -1,0 +1,9 @@
+Cada uno de los cuatro serotipos del DENV incluye a su vez varios genotipos que varían según la distribución geográfica y el potencial epidémico. 
+El DENV-1 consta de cinco genotipos (I-V). 
+Los genotipos I y II se originaron en Asia. El genotipo III corresponde a cepas selváticas. 
+El genotipo IV proviene de la región del Pacífico Sur, mientras que los virus del genotipo V provienen de América y África. 
+El DENV-2 consta de seis genotipos. El genotipo asiático/americano, el cual predominó anteriormente en el sudeste asiático, ahora circula ampliamente en Centro y Sur América. 
+En Asia circulan los genotipos Asiático I y Asiático II. El genotipo Cosmopolita exhibe una amplia distribución en todo el mundo. El genotipo americano es predominante y específico de Centro y Sudamérica. 
+El genotipo VI selvático se encuentra con frecuencia en primates no humanos de los bosques africanos y del sudeste asiático. DENV-3 consta de cinco genotipos. El genotipo I está presente en el sudeste asiático y el Pacífico sur y el genotipo II se originó en Tailandia. 
+El genotipo III se aisló originalmente en el subcontinente indio y el genotipo IV en América. El genotipo V se encuentra tanto en Asia como en América. DENV-4 también consta de cinco genotipos. El genotipo I se informó por primera vez en Filipinas y más recientemente en Brasil. 
+El genotipo IIA se distribuye en el sudeste asiático y China, al igual que en centro y sur América. El genotipo IIB se aisló en el sudeste asiático y las islas del Pacífico, y el genotipo III hasta el presente sólo se ha descrito en Tailandia. El DENV-4 selvático se encuentra exclusivamente en primates no humanos
