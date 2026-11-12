@@ -1,2 +1,2 @@
 # Genetica-y-evolucion-de-los-Orthoflavivirus-Virus-del-dengue-
-En este espacio de trabajo, se encuentra literatura adjunta, datasets y scripts para el analisis de los virus del genero Orthoflavivirus, responsable del dengue y sus subtipos.
+Este trabajo tiene como objetivo el analisis del genoma de los Orthoflavivirus, y su historia evolutiva. Se intentara explorar por medio de la bioinformatica, analizando sus secuencias y datasets relacionados, con el objetivo de enlazar esta informacion con la relacion de estos virus con sus huespedes tradicionales (mosquitos de aedes) y su etiologia molecular en humanos.
