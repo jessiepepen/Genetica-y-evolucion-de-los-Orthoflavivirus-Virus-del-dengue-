@@ -21,7 +21,7 @@ Análisis del genoma de los Orthoflavivirus y de su historia evolutiva. El traba
 
 ```
 ├── Bibliografia/     Artículos de referencia (PDF) y notas bibliográficas
-├── Datasets/         Genomas de referencia de DENV-1 a DENV-4
+├── Datasets/         Genomas de referencia de DENV-1 a DENV-4 y estructuras cristal
 ├── Scripts/          Scripts de análisis y manipulación de secuencias
 ├── LICENSE           Licencia GPL-3.0
 └── README.md         Este archivo
