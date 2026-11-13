@@ -1,12 +1,30 @@
-# Genetica-y-evolucion-de-los-Orthoflavivirus-Virus-del-dengue-
-1. INTRODUCCION
-   
-Este trabajo tiene como objetivo el analisis del genoma de los Orthoflavivirus, y su historia evolutiva. Se intentara explorar por medio de la bioinformatica, analizando sus secuencias y datasets relacionados, con el objetivo de enlazar esta informacion con la relacion de estos virus con sus huespedes tradicionales (mosquitos de aedes) y su etiologia molecular en humanos.
+# Genética y evolución de los Orthoflavivirus — Virus del dengue
 
-2. OBJETIVOS
-1. Investigar la etiologia e historia del virus del dengue.
-2. Analizar las caracteristicas moleculares de este virus, y sus diferencias.
-3. Comparar los dominios proteicos responsables de su virulencia, con sus dianas en otros organismos
+Análisis del genoma de los Orthoflavivirus y de su historia evolutiva. El trabajo explora, por medio de la bioinformática, las secuencias y datasets relacionados con estos virus, con el objetivo de enlazar esa información con su relación con los huéspedes tradicionales (mosquitos del género Aedes) y con su etiología molecular en humanos.
 
-3. PROPOSITOS Y UTILIZACION.
-Esto pretende ser un repositorio con informacion de naturaleza integral sobre el virus del dengue. De esta manera, tanto investigadores como personal de salud podran utilizar de manera provechosa la informacion contenida en este espacio. 
+---
+
+## Objetivos
+
+1. Caracterizar la organización genómica de los cuatro serotipos del virus del dengue
+   (DENV-1 a DENV-4) a partir de sus genomas de referencia.
+2. Reconstruir la historia evolutiva del género *Orthoflavivirus* mediante análisis
+   comparativo de secuencias y filogenia.
+3. Relacionar la variación genética observada con la adaptación del virus a su vector
+   (*Aedes aegypti* y *Aedes albopictus*).
+4. Vincular los hallazgos genómicos con la etiología molecular de la enfermedad en
+   humanos (replicación viral, evasión inmune y marcadores de severidad).
+
+---
+
+## Estructura del repositorio
+
+```
+├── Bibliografia/     Artículos de referencia (PDF) y notas bibliográficas
+├── Datasets/         Genomas de referencia de DENV-1 a DENV-4 y estructuras cristal
+├── Scripts/          Scripts de análisis y manipulación de secuencias
+├── LICENSE           Licencia GPL-3.0
+└── README.md         Este archivo
+```
+
+---
